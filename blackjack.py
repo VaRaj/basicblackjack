@@ -1,3 +1,5 @@
+#based on https://www.youtube.com/watch?v=Tsof_J1S8QU
+
 import random
 
 cards = [
