@@ -54,5 +54,8 @@ else:
     else:
         print('Player wins! Dealer had ', dealer, {card_sum(dealer)}, ' and you had ',
         player, {card_sum(player)})
-
+#Further improvements:
 #ace can be 1 or 10
+#add splitting
+#add GUI
+#extra feature such as if user on 10 loss streak tilt the odds a bit
